@@ -26,6 +26,14 @@ The project is structured into four main components:
 - `credit_fraud_utils_eval.py`: Model evaluation scripts.
 - `main.py`: Main script to run the project.
 
+## Dataset
+- follow the link to download the dataset's two files train and val.
+- put two files in the folder data.
+- change the path to data in main file.
+  ```bash
+  https://drive.google.com/file/d/1IU6HMKxAaDORxw406XTChg92MF46mnqD/view?usp=sharing
+  https://drive.google.com/file/d/1nP7tAMiSdh5aV9GJEI16tJ2PJse-avrr/view?usp=sharing
+  
 ## How to Run
 1. Clone the repository:
    ```bash
